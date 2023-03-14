@@ -1,0 +1,8 @@
+name:Brad
+address:NY city
+phone:9258305647
+email:kazminerals.com
+num_stud:1
+num_teachers:2
+teachers:[{'name': 'Anel', 'familyname': 'Turganbaeva', 'age': 21, 'gender': 'female', 'nationality': 'Kazakh', 'school': 'NISH', 'subject': ['1', '2']}, {'name': 'Asel', 'familyname': 'Saparova', 'age': 25, 'gender': 'female', 'nationality': 'Kazakh', 'school': None, 'subject': None}]
+students:[{'name': 'Azamat', 'familyname': 'Bazarbai', 'age': 17, 'gender': 'male', 'nationality': 'Kazakh', 'school': 5, 'subject': ['bio', 'math']}]
